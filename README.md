@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Introduction
+I am a Ph.D. candidate in Computer Information Technology, Polytechnic Insitute at Purdue University. I work with my advisor Prof. John A Springer at D.A.T.A Lab, while also collaborating with my committee member, Professor Justin Yang at DAO2 lab.
 
-You can use the [editor on GitHub](https://github.com/hlchen1043/juliachen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My primary research interests lie in Connected and Automated Vehicle (CAV), with regarding to its perception system, vehicular communciation system, and cybersecurity issue lies within the system. My recent reserach work focuses risk analysis of vehicular network and in-vehicular network, while I'm also working on some perception issues for CAV under severe weather and corner cases. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Previously, I received a master degree in Mechanical Engineering Technology in 2016 in Purdue University. During my master study, I worked with Prof. Haiyan H Zhang on data analysis and control algorithms in mechantronics.
 
-### Markdown
+### Contact
+Email: chen1368@prudue.edu
+Address: 500 Oval Dr Room 125, West Lafayette, IN, 47906
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hlchen1043/juliachen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
